@@ -70,7 +70,6 @@ sectioned-view:latest
 ant:latest
 ansicolor:latest
 jquery-detached:latest
-claim:latest
 deploy:latest
 swarm:latest
 run-condition:latest
